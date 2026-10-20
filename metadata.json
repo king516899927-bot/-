@@ -1,0 +1,6 @@
+{
+  "name": "淡江吃什麼？｜美食私藏地圖",
+  "description": "淡江大學學生專屬的校園步行美食探索手帳，收錄大學城與水源街私藏推薦、預算與區域篩選及 Google 地圖導航。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
